@@ -8,7 +8,7 @@
 	"character_file": "Example.yaml",
 	"presets_dir_path": "presets",
 	"preset_file": "LLaMA-ggml-Creative.txt",
-	"model_lang": "kr",
+	"model_lang": "en",
 	"user_lang": "kr",
 	"history_dir_path": "history",
 	"token_file_path": "configs/telegram_token.txt",
